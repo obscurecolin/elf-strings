@@ -35,7 +35,7 @@ go build
   -no-color
     	disable color output in the results
   -no-human
-    	don't validate that its a human readable string, this could increase the amount of junk.
+    	don't validate that it's a human readable string, this could increase the amount of junk.
   -no-info
     	don't show any information about the binary
   -no-trim
